@@ -1,0 +1,7 @@
+export const GET_CARDS = 'GET_CARDS'
+export const GET_CARDS_SUCCESS = 'GET_CARD_SSUCCESS'
+export const GET_CARDS_ERROR = 'GET_CARDS_ERROR'
+
+export const GET_CARD = 'GET_CARD'
+export const GET_CARD_SUCCESS = 'GET_CARD_SUCCESS'
+export const GET_CARD_ERROR = 'GET_CARD_ERROR'
